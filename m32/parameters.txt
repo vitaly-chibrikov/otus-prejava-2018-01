@@ -1,0 +1,4 @@
+-verbose
+-Xlint:all
+#-Werror
+-d out
